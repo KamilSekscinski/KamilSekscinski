@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a frontend developer from Poland
+I am a webmaster from Poland
 <!--
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
